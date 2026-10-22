@@ -1,6 +1,6 @@
 # Tempo
 
-A Strava-style training log for iOS and Android, built with Expo (SDK 58) and Expo Router.
+A Strava-style training log for iOS and Android, built with Expo (SDK 57) and Expo Router.
 
 - **Record** runs, rides, walks, hikes and swims with live GPS: a map that follows you, your route drawn as you go, distance, current pace and average pace. Pause, resume, finish or discard.
 - **Import GPX** files from Garmin, Coros, Apple Health or a Strava export, or **log a session by hand**.

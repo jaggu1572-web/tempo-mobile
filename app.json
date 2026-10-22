@@ -35,7 +35,8 @@
           "isAndroidForegroundServiceEnabled": true,
           "motionUsagePermission": false
         }
-      ]
+      ],
+      "expo-status-bar"
     ],
     "scheme": "tempo"
   }
