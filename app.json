@@ -8,7 +8,7 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.example.tempo"
+      "bundleIdentifier": "com.jaggu1572.tempo"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.example.tempo"
+      "package": "com.jaggu1572.tempo"
     },
     "web": {
       "favicon": "./assets/favicon.png"

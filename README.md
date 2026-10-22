@@ -41,7 +41,7 @@ If the app is closed mid-recording, the recording is restored the next time you 
 
 ## Before publishing
 
-Change `bundleIdentifier` / `package` in `app.json` (currently `com.example.tempo`) and replace the placeholder icons in `assets/`.
+Replace the placeholder icons in `assets/`.
 
 ## Project layout
 
